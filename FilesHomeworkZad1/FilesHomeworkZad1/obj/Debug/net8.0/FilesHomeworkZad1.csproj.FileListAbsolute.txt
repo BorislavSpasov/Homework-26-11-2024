@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\bin\Debug\net8.0\FilesHomeworkZad1.exe
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\bin\Debug\net8.0\FilesHomeworkZad1.deps.json
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\bin\Debug\net8.0\FilesHomeworkZad1.runtimeconfig.json
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\bin\Debug\net8.0\FilesHomeworkZad1.dll
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\bin\Debug\net8.0\FilesHomeworkZad1.pdb
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\obj\Debug\net8.0\FilesHomeworkZad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\obj\Debug\net8.0\FilesHomeworkZad1.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\obj\Debug\net8.0\FilesHomeworkZad1.AssemblyInfo.cs
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\obj\Debug\net8.0\FilesHomeworkZad1.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\obj\Debug\net8.0\FilesHomeworkZad1.dll
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\obj\Debug\net8.0\refint\FilesHomeworkZad1.dll
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\obj\Debug\net8.0\FilesHomeworkZad1.pdb
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\obj\Debug\net8.0\FilesHomeworkZad1.genruntimeconfig.cache
+C:\Users\thesh\source\repos\FilesHomeworkZad1\FilesHomeworkZad1\obj\Debug\net8.0\ref\FilesHomeworkZad1.dll
